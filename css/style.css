@@ -269,6 +269,8 @@ a {
   object-fit: contain;
 }
 
+.social-icon:hover {
+
 .copyright-text {
   display: -webkit-box;
   display: -webkit-flex;
