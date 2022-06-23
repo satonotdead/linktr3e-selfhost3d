@@ -129,6 +129,7 @@ a {
 .hello-world {
   font-size: 25px;
   font-weight: 700;
+  text-align: center;
 }
 
 .hello-world.light-profile-name {
