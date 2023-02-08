@@ -1,3 +1,9 @@
+.donate {
+font-size: 0.73rem;
+padding: 1.77rem 0 0.77rem;
+text-align: center;
+}
+
 body {
   font-family: 'Space Mono', sans-serif;
   color: #000;
