@@ -17,3 +17,5 @@ I want something like link.tree but without the bloatware that corpos involves. 
 2) ``cd insta-links`` for editing your stuff (please, double-check the links).
 
 3) Upload and use it!
+
+> You can use Github Pages using a simple script on Github Actions too 🧡
