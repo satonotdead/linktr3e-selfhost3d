@@ -1,14 +1,12 @@
-# Cool stuff from matenauta
+# Cool stuff from matenauta ⚡
 
 Simple website that just points the audience to my projects.
 
-&nbsp;
-
 ## Inspiration
 
-I want something like link.tree but without the bloatware that corpos involves. So I adapted a Webflow template and exported it to HTML for upload to the cloud :)
+link.tree without bloatware? :)
 
-&nbsp;
+I adapted a Webflow template for use it by my own.
 
 ## How to use the template
 
