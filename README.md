@@ -2,7 +2,7 @@
 
 Simple website that just points audience to my projects.
 
-I get inspiration from **link.tree** without bloatware, tracking and overprice (🤫)
+I keep it simple, modern and minimalistic 🙏
 
 ## How to use it
 
