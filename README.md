@@ -1,4 +1,4 @@
-# Cool stuff from matenauta (link.tree self-hosted)
+# Cool stuff (link.tree self-hosted)
 
 Simple website that just points audience to my projects.
 
