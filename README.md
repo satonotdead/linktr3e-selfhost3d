@@ -6,9 +6,9 @@ I keep it simple, modern and minimalistic 🙏
 
 ## How to clone it
 
-1) ``git clone https://github.com/satoshinotdead/insta-links``
+1) ``git clone https://github.com/satoshinotdead/linktr3e-selfhost3d``
 
-2) ``cd insta-links`` for editing your stuff (please, double-check the links).
+2) ``cd linktr3e-selfhost3d`` for editing your stuff (please, double-check the links you will share).
 
 3) Upload to your profile and use with [Github Pages](https://pages.github.com/)!
 
