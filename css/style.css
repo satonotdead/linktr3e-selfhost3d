@@ -1,11 +1,16 @@
+.XMR {
+  font-size: 0.85rem;
+}
+
+
 .donate {
 font-size: 0.73rem;
-padding: 1.77rem 0 0.77rem;
+padding: 1.66rem 0 0.66rem;
 text-align: center;
 }
 
 body {
-  font-family: 'Space Mono', sans-serif;
+  font-family: 'monospace', sans-serif;
   color: #000;
   font-size: 20px;
   line-height: 120%;
@@ -73,7 +78,7 @@ a {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 100px;
+  padding-top: 1.33rem;
   padding-bottom: 40px;
 }
 
@@ -133,10 +138,14 @@ a {
   object-fit: contain;
 }
 
-.hello-world {
+.hello-world {  
   font-size: 25px;
   font-weight: 700;
   text-align: center;
+}
+
+.im-sato {
+padding-top: 0.33rem;
 }
 
 .hello-world.light-profile-name {
