@@ -216,7 +216,7 @@ a {
 }
 
 .link-name {
-  /* color: #323232; */ /* Removed explicit color for dark mode inheritance */
+  color: #323232;
   font-size: 25px;
   font-weight: 700;
 }
@@ -448,7 +448,8 @@ a {
     color: #e9e9e9;
   }
 
-  a {
+  a,
+  .link-name {
     color: #e9e9e9;
   }
 
